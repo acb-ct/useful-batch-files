@@ -1,10 +1,15 @@
 # useful-batch-files
 
-Batch files for windows, which I find useful for my daily work
+Batch and PowerShell files for Windows, which I find useful for my daily work
 
-(by Achim Barczok 2020, achim@lostfile.de) 
+(by Achim Barczok 2021, achim@lostfile.de) 
  
  
 ## resize1080.cmd
 
 Creates an jpg with 1080 Pixel width 
+
+## renamereports.ps1
+
+PowerShell script which strips time codes from file names
+(I use them for file exported by an analytics software)
