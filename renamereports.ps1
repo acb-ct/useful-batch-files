@@ -1,0 +1,1 @@
+ls | Rename-Item -NewName {$_ -replace '(.*)(-\d{4}-\d{2}-\d{2}_\d{2}-\d{2}-\d{2}_UTC)(\..{3})', '$1$3' }
