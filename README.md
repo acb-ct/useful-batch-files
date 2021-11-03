@@ -7,9 +7,10 @@ Batch and PowerShell files for Windows, which I find useful for my daily work
  
 ## resize1080.cmd
 
-Creates an jpg with 1080 Pixel width 
+Creates an jpg with 1080 pixel width.
+Draw the image file on the cmd-File to generate a new image in the same folder.
 
 ## renamereports.ps1
 
-PowerShell script which strips time codes from file names
+PowerShell script which strips time codes from file names.
 (I use them for file exported by an analytics software)
